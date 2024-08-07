@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mmharinandh
-- 👀 I’m interested in VLSI Design and Hardware Modelling
+- 👀 I’m interested in RTL Design, Static Timing Analysis, Physical Design, Design Verification and Embedded Systems
 - 🌱 I’m currently learning RTL to GDS
 - 📫 mmharinandh@outlook.com
 - 😄 Pronouns: he/him
