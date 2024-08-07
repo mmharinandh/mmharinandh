@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mmharinandh
 - 👀 I’m interested in RTL Design, Static Timing Analysis, Physical Design, Design Verification and Embedded Systems
-- 🌱 I’m currently learning RTL to GDS
+- 🌱 I’m currently learning RTL to GDS using Cadence and Synopsys EDA tools
 - 📫 mmharinandh@outlook.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: bazinga
